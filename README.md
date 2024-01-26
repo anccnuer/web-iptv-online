@@ -4,14 +4,11 @@
 All the channel's m3u8 are from Internet, and it maybe not useful someday. This project is only a try to watch iptv without software whitch need to install on your PC. That's all.
 
 ## How to use
-### run on local
+
 clone this repository  
 ```
 cd web-iptv-online  
 npm -i  
-npm run dev  
-```
-### or build
-```
-npm run build
+npm run dev  # run on local  
+npm run build  # or build
 ```
